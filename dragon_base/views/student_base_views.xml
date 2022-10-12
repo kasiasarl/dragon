@@ -11,6 +11,7 @@
                     <field name="lastname"/>
                     <field name="birth_date"/>
                     <field name="age"/>
+                    <field name="cin"/>
                 </tree>
             </field>
         </record>
@@ -31,6 +32,7 @@
                             <group>
                                 <field name="matricule"/>
                                 <field name="photo" widget="image"/>
+                                <field name="cin" />
                             </group>
                         </group>
                     </sheet>
